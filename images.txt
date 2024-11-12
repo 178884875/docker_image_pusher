@@ -8,3 +8,9 @@ consul:1.15.4
 redis
 postgres:17
 rabbitmq:3-management
+#lobe-chat
+pgvector/pgvector:pg16
+minio/minio
+casbin/casdoor
+lobehub/lobe-chat-database
+alpine
