@@ -14,3 +14,4 @@ minio/minio
 casbin/casdoor
 lobehub/lobe-chat-database
 alpine
+bitnami/kafka
