@@ -14,8 +14,8 @@ minio/minio
 casbin/casdoor
 lobehub/lobe-chat-database
 alpine
-bitnami/kafka
-bitnami/zookeeper
+#bitnami/kafka
+#bitnami/zookeeper
 
 langgenius/dify-api:1.0.0
 langgenius/dify-web:1.0.0
